@@ -1,7 +1,6 @@
 ---
-title: About
-description: 'About me'
-author: Gabriele Toselli
+title: "About"
+menu: "main"
 ---
 
 
