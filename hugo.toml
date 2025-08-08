@@ -57,7 +57,7 @@ url = "https://github.com/gtoselli"
   defaultColor = "dark"
   description = "description"
   mainSections = ['notes']
-  toc = true
+  toc = false
   tocOpen = false
   goToTop = true
 
