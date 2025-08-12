@@ -15,7 +15,7 @@ I'm particularly passionate about **CQRS** and **Event Sourcing**, building scal
 
 
 ### 📒 Notes
- ... tbd ...
+Something cool is coming... check back soon
 
 ### ✨ Experience
 - [Serenis (from sept 2024)](https://www.serenis.it/)
