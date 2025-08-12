@@ -8,6 +8,9 @@ languageCode = 'en-us'
 
 defaultContentLanguage = "en-gb"
 
+enableGitInfo = true
+
+
 [permalinks]
   posts = "/n/:slug"
 

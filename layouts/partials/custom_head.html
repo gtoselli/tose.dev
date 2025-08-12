@@ -14,16 +14,35 @@
 <link rel="manifest" href="/site.webmanifest" />
 
 <style>
+    :root {
+        --width-max: 720px;
+        --font-primary: Verdana, sans-serif;
+        --font-secondary: monospace;
+        --font-size-primary: 1em;
+        --font-size-secondary: 0.8em;
+
+        --body-bg-color: #1c1c1c;
+        --bold-text-color: #eee;
+        --body-text-color: #ddd;
+        --link-color: #8cc2dd;
+        --link-visited-color: #c3b1ee;
+        --table-border-color: #999;
+        --table-th-bg-color: #999;
+        --img-border-color: #999;
+        --code-bg-color: #555;
+        --code-text-color: #ddd;
+        --blockquote-border-color: #ccc;
+        --blockquote-text-color: #ccc;
+        --caption-text-color: #aaa;
+        --toc-text-color: #373737;
+        --toc-hover-color: #cac3c3;
+    }
+
     .text-highlight {
-        background: linear-gradient(120deg, #8cc2ff 0%, #8cc2ff 100%);
+        background: linear-gradient(120deg, #7bb268 0%, #a8d38f 100%);
         padding: 0.1em 0.2em;
         border-radius: 1px;
         box-decoration-break: clone;
         color: black;
-    }
-    @media (prefers-color-scheme: dark) {
-        .text-highlight {
-            background: linear-gradient(120deg, #8cc2dd 0%, #8cc2dd 100%);
-        }
     }
 </style>

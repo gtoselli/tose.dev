@@ -1,0 +1,6 @@
+{{ $latest := time "1970-01-01" }} {{ $allPages := union .Site.RegularPages
+.Site.Sections }} {{ $allPages = union $allPages .Site.Pages }} {{ range
+$allPages }} {{ with .GitInfo }} {{ if gt .AuthorDate $latest }} {{ $latest =
+.AuthorDate }} {{ end }} {{ end }} {{ end }} Updated on {{ if eq $latest.Unix 0
+}}unknown{{ else }}{{ $latest.Format "02/01/2006" }} | {{ end }}Made with
+<a href="https://github.com/rokcso/hugo-bearneo/">Hugo Bear Neo</a>
