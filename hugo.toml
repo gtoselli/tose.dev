@@ -2,7 +2,7 @@ baseURL = 'https://tose.dev/'
 
 theme = "hugo-bearneo"
 
-title = 'tose.dev'
+title = 'Tose.dev'
 
 languageCode = 'en-us'
 
@@ -12,8 +12,6 @@ defaultContentLanguage = "en-gb"
   posts = "/n/:slug"
 
 [params]
-    title = "Tose dev"
-    description = "A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog."
     [params.RSS]
         enableRSS = false
     [params.footer]

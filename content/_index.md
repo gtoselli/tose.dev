@@ -1,12 +1,18 @@
 ---
-title: "Home"
+title: "Gabriele Toselli"
+description: "Hi, I’m Toselli Gabriele (Tose) — software developer with 8+ years of experience in startups, building products people love to use."
+
+
 ---
 
 # Hi! 👋 This is <span class="text-highlight">Tose</span>.
-
-Nice to meet you.
+But on paper, you’ll find me as <strong>Toselli Gabriele</strong>.
 
 I'm a software developer with 8+ years of experience in building product startups.
+My development philosophy is shaped by **Domain-Driven Design (DDD)**, focusing on modeling software around the language and concepts of the business domain.
+
+I'm particularly passionate about **CQRS** and **Event Sourcing**, building scalable, event-driven systems that can evolve with changing business needs.
+
 
 ### 📒 Notes
  ... tbd ...
